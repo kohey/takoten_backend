@@ -2,42 +2,36 @@
 
 Users  
 
-| column | Type | Description |
+| column | Type |
 | --- | --- |
-| id | integer | primary |
-| latitude | double(9,6) | 緯度　|
-| longitude | double(9,6) | 経度　|
-| logintime | DATETIME | ログイン時刻 |
+| id | integer |
+| latitude | double(9,6) |
+| longitude | double(9,6) |
+| logintime | DATETIME | 
+
+
 
 Messages  
-|column|Type|Description|
-|:---|:---|:---|
-|id|integer|primary|
-|:---|:---|:---|
-|latitude|double(9,6)|緯度|
-|:---|:---|:---|
-|longitude|double(9,6)|経度|
-|:---|:---|:---|
-|content|text|メッセ内容|
-|:---|:---|:---|
-|color|string|文字色|
-|:---|:---|:---|
-|size|int|文字の大きさ|
+
+| column | Type |
+| --- | --- |
+| id | integer |
+| latitude | double(9,6) |
+| longitude | double(9,6) |
+| content | text |
+| color | string |
+| size | int |
+
 
 Prefentures  
-|column|Type|Description|
-|:---|:---|:---|
-|id|integer|primary|
-|:---|:---|:---|
-|min_latitude|double(9,6)|最低緯度|
-|:---|:---|:---|
-|min_longitude|double(9,6)|最低経度|
-|:---|:---|:---|
-|max_longitude|double(9,6)|最高経度|
-:---|:---|:---|
-|max_latitude|double(9,6)|最高緯度|
-|:---|:---|:---|
-|name|string|都道府県名|
+
+| column | Type |
+| id | integer |
+| min_latitude | double(9,6) |
+| min_longitude | double(9,6) |
+| max_longitude | double(9,6) |
+| max_latitude | double(9,6) |
+| name | string |
 
 user:message = 1:N
 
