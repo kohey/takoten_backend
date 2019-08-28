@@ -26,6 +26,7 @@ Messages
 Prefentures  
 
 | column | Type |
+| --- | --- |
 | id | integer |
 | min_latitude | double(9,6) |
 | min_longitude | double(9,6) |
