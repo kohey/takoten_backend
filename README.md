@@ -2,7 +2,8 @@
 
 Users  
 |column|Type|Description|
-|id|integer|primary|
+| --- | --- |
+| id | integer | primary |
 | latitude | double(9,6) | 緯度　|
 | longitude | double(9,6) | 経度　|
 | logintime | DATETIME | ログイン時刻 |
