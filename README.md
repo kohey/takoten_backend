@@ -1,7 +1,8 @@
 # バックエンド
 
 Users  
-|column|Type|Description|
+
+| column | Type | Description |
 | --- | --- |
 | id | integer | primary |
 | latitude | double(9,6) | 緯度　|
