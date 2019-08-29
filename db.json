@@ -1,51 +1,51 @@
 {
-  "messages": [
+  "Messages": [
     {
-      "id": 1,
-      "longitude": "135.5062695",
-      "latitude": "34.5463489",
-      "content": "test message1",
-      "color": "test color1",
-      "size": 9.1
+      "Id": 1,
+      "Longitude": "135.5062695",
+      "Latitude": "34.5463489",
+      "Content": "test message1",
+      "Color": "test color1",
+      "Size": 9.1
     },
     {
-      "id": 2,
-      "longitude": "135.5062695",
-      "latitude": "34.5463489",
-      "content": "test message2",
-      "color": "test color2",
-      "size": 9.1
+      "Id": 2,
+      "Longitude": "135.5062695",
+      "Latitude": "34.5463489",
+      "Content": "test message2",
+      "Color": "test color2",
+      "Size": 9.1
     },
     {
-      "id": 3,
-      "longitude": "135.5062695",
-      "latitude": "34.5463489",
-      "content": "test message3",
-      "color": "test color3",
-      "size": 9.1
+      "Id": 3,
+      "Longitude": "135.5062695",
+      "Latitude": "34.5463489",
+      "Content": "test message3",
+      "Color": "test color3",
+      "Size": 9.1
     }
   ],
-  "users": [
+  "Users": [
     {
-      "id": 1,
-      "name": "user1",
-      "longitude": "135.5062694",
-      "latitude": "34.5463488",
-      "logintime": "2006-09-13 06:14:47"
+      "Id": 1,
+      "Name": "user1",
+      "Longitude": "135.5062694",
+      "Latitude": "34.5463488",
+      "Logintime": "2006-09-13 06:14:47"
     },
     {
-      "id": 2,
-      "name": "user2",
-      "longitude": "135.5062694",
-      "latitude": "34.5463488",
-      "logintime": "2006-09-13 06:14:47"
+      "Id": 2,
+      "Name": "user2",
+      "Longitude": "135.5062694",
+      "Latitude": "34.5463488",
+      "Logintime": "2006-09-13 06:14:47"
     },
     {
-      "id": 3,
-      "name": "user3",
-      "longitude": "135.5062694",
-      "latitude": "34.5463488",
-      "logintime": "2006-09-13 06:14:47"
+      "Id": 3,
+      "Name": "user3",
+      "Longitude": "135.5062694",
+      "Latitude": "34.5463488",
+      "Logintime": "2006-09-13 06:14:47"
     }
   ]
 }
