@@ -1,38 +1,36 @@
 # バックエンド
 
-Users  
+Users
 
-| column | Type |
-| --- | --- |
-| id | integer |
-| latitude | double(9,6) |
+| column    | Type        |
+| --------- | ----------- |
+| id        | integer     |
+| name      | string      |
+| latitude  | double(9,6) |
 | longitude | double(9,6) |
-| logintime | DATETIME | 
+| logintime | DATETIME    |
 
+Messages
 
-
-Messages  
-
-| column | Type |
-| --- | --- |
-| id | integer |
-| latitude | double(9,6) |
+| column    | Type        |
+| --------- | ----------- |
+| id        | integer     |
+| latitude  | double(9,6) |
 | longitude | double(9,6) |
-| content | text |
-| color | string |
-| size | int |
+| content   | text        |
+| color     | string      |
+| size      | int         |
 
+Prefentures
 
-Prefentures  
-
-| column | Type |
-| --- | --- |
-| id | integer |
-| min_latitude | double(9,6) |
+| column        | Type        |
+| ------------- | ----------- |
+| id            | integer     |
+| min_latitude  | double(9,6) |
 | min_longitude | double(9,6) |
 | max_longitude | double(9,6) |
-| max_latitude | double(9,6) |
-| name | string |
+| max_latitude  | double(9,6) |
+| name          | string      |
 
 user:message = 1:N
 

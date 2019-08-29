@@ -1,0 +1,51 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "longitude": "135.5062695",
+      "latitude": "34.5463489",
+      "content": "test message1",
+      "color": "test color1",
+      "size": 9.1
+    },
+    {
+      "id": 2,
+      "longitude": "135.5062695",
+      "latitude": "34.5463489",
+      "content": "test message2",
+      "color": "test color2",
+      "size": 9.1
+    },
+    {
+      "id": 3,
+      "longitude": "135.5062695",
+      "latitude": "34.5463489",
+      "content": "test message3",
+      "color": "test color3",
+      "size": 9.1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "user1",
+      "longitude": "135.5062694",
+      "latitude": "34.5463488",
+      "logintime": "2006-09-13 06:14:47"
+    },
+    {
+      "id": 2,
+      "name": "user2",
+      "longitude": "135.5062694",
+      "latitude": "34.5463488",
+      "logintime": "2006-09-13 06:14:47"
+    },
+    {
+      "id": 3,
+      "name": "user3",
+      "longitude": "135.5062694",
+      "latitude": "34.5463488",
+      "logintime": "2006-09-13 06:14:47"
+    }
+  ]
+}
