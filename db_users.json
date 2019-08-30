@@ -1,0 +1,25 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "Name": "user1",
+      "Longitude": "135.5062694",
+      "Latitude": "34.5463488",
+      "Logintime": "2006-09-13 06:14:47"
+    },
+    {
+      "Id": 2,
+      "Name": "user2",
+      "Longitude": "135.5062694",
+      "Latitude": "34.5463488",
+      "Logintime": "2006-09-13 06:14:47"
+    },
+    {
+      "Id": 3,
+      "Name": "user3",
+      "Longitude": "135.5062694",
+      "Latitude": "34.5463488",
+      "Logintime": "2006-09-13 06:14:47"
+    }
+  ]
+}
